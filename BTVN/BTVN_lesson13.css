@@ -1,0 +1,91 @@
+*. {
+	box-sizing: border-box;
+}
+#all {
+	width: 2000px;
+	height: 2000px;
+	margin: auto;
+}
+div img {
+	width: 1000px;
+	height: 900px;
+	float: left;
+}
+#container {
+	width: 900px;
+	height: 650px;
+	border: 1px solid #cdcdcd;
+	float:left;
+	margin-top:-500px;
+	margin-left: 750px;
+	padding: 50px;
+	background: white;
+
+}
+.red {
+	width: 900px;
+	height: 50px;
+	background: red;
+	margin: auto;
+}
+.blue {
+	width: 800px;
+	height: 600px;
+	background: blue;	
+	margin: auto;
+}
+.top {
+	width: 800px;
+	height: 250px;
+}
+.green1 {
+	width: 200px;
+	height: 150px;
+	background: green;
+	float: right;
+}
+.yellow {
+	width: 200px;
+	height: 100px;
+	background: yellow;
+	float: right;
+	margin-left: 600px;
+}
+.bottom {
+	width: 800px;
+	height: 300px;
+	background: #ffc5d1;
+}
+.green2 {
+	width: 400px;
+	height: 150px;
+	background: #058607;
+}
+.brow1 {
+	width: 200px;
+	height: 150px;
+	background: #ffa906;
+	float: left;
+	margin-left: 200px;
+}
+.small {
+	width: 400px;
+	height: 200px;
+	background: #fe0606;
+	float: left;
+	margin-top: -150px;
+}
+.brow2 {
+	width: 200px;
+	height: 90px;
+	background: #ffa906;
+	float: right;
+}
+.green3 {
+	width: 200px;
+	height: 110px;
+	background: #058607;
+	float: right;
+	margin-left: 200px;
+
+}
